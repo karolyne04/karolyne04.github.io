@@ -1,0 +1,22 @@
+head {
+    margin: 10%;
+    width: 20%;
+}
+body {
+    background-color: blue;
+   
+}
+nav img {
+    height: 50%;
+    width: 50%;
+    border-radius: 80%;
+}
+
+
+
+ nav p {
+    text-align: center;
+}
+header p {
+    text-align: center;
+}
